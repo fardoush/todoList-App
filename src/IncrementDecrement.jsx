@@ -15,7 +15,7 @@ const IncDecNum = () => {
             setCount(count-1);
         }
         else{
-
+            setCount(0);
         }
     }
     return(

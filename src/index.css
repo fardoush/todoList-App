@@ -42,12 +42,16 @@ h1{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width:100%;
- padding: 60px;
-  background: red;
+  /* width:100%;
+ padding: 60px; */
+  /* background: #fff;
+  color:#a29bfe; */
+  color:#fff;
+
+  margin-bottom:30px;
 
 }
 
 .digital-clock{
- background: #fff;
+
 }
